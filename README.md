@@ -12,6 +12,8 @@
 
 Обязательно проверьте файл на ошибки и опечатки, чтобы он выглядел аккуратно.
 
+В README-файлах используется язык разметки Markdown. Если у вас возникли проблемы с ним, рекомендуем пройти интерактивный тренажёр по Markdown: https://commonmark.org/help/tutorial/.
+
 <!--
 **Sasha-Bro/Sasha-Bro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
