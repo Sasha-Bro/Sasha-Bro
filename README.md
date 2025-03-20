@@ -1,7 +1,7 @@
 [Telegram](https://t.me/sasha_broro) / [E-mail](sasha.bro82@gmail.com) 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/22f9bbd0-f33c-4719-aeb5-5581a7201116">
+  <img src="https://github.com/user-attachments/assets/31b2ca90-184a-47e9-b37d-591ccd6254ee">
 </div>
 
 ## Обо мне 👋
@@ -40,3 +40,7 @@
 - **Численные методы**: градиентный спуск, градиентный бустинг.
 - **Обучение без учителя**: кластеризация методом k-средних, поиск аномалий.
 - **Компьютерное зрение**: работа с нейронными сетями, архитектура ResNet.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/22f9bbd0-f33c-4719-aeb5-5581a7201116">
+</div>
