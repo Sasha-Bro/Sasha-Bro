@@ -1,5 +1,7 @@
 ![4a261dc6abcea37cf448267c74f0363c](https://github.com/user-attachments/assets/0a9e292b-a009-4375-90aa-6e162b82032c)
 
+[Telegram](https://t.me/sasha_broro) / [E-mail](sasha.bro82@gmail.com) 
+
 ## Обо мне
 Мой путь в Data Scientist  начался с обучения в Яндекс.Практикуме. 
 
