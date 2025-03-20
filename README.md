@@ -1,4 +1,4 @@
-![4a261dc6abcea37cf448267c74f0363c](https://github.com/user-attachments/assets/0a9e292b-a009-4375-90aa-6e162b82032c)
+![1](https://github.com/user-attachments/assets/22f9bbd0-f33c-4719-aeb5-5581a7201116)
 
 [Telegram](https://t.me/sasha_broro) / [E-mail](sasha.bro82@gmail.com) 
 
