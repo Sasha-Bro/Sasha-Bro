@@ -1,4 +1,4 @@
-[Telegram](https://t.me/sasha_broro) / [E-mail](sasha.bro82@gmail.com) 
+[Telegram](https://t.me/sasha_broro) / [E-mail](sasha.bro829@gmail.com) 
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/31b2ca90-184a-47e9-b37d-591ccd6254ee">
